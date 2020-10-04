@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xmlStyle.css"?>
+
+<songs>
+	<song>
+		<artist>ABBA</artist>
+		<title>Mamma Mia</title>
+		<genre>1970s Pop</genre>
+		<year>1975</year>
+	</song>
+	<song>
+		<artist>Mariah Carey</artist>
+		<title>All I Want for Christmas is You</title>
+		<genre>Holiday</genre>
+		<year>1994</year>
+	</song>
+	<song>
+		<artist>Miley Cyrus</artist>
+		<title>Party in the USA</title>
+		<genre>Pop</genre>
+		<year>2009</year>
+	</song>
+	<song>
+		<artist>Queen</artist>
+		<title>Don't Stop Me Now</title>
+		<genre>Classic Rock</genre>
+		<year>1978</year>
+	</song>
+	<song>
+		<artist>Journey</artist>
+		<title>Don't Stop Believin'</title>
+		<genre>Rock</genre>
+		<year>1981</year>
+	</song>
+	<song>
+		<artist>Queen</artist>
+		<title>Bohemian Rhapsody</title>
+		<genre>Classic Rock</genre>
+		<year>1975</year>
+	</song>
+	<song>
+		<artist>One Direction</artist>
+		<title>What Makes You Beautiful</title>
+		<genre>Pop</genre>
+		<year>2011</year>
+	</song>
+	<song>
+		<artist>ABBA</artist>
+		<title>Dancing Queen</title>
+		<genre>1970s Pop</genre>
+		<year>1976</year>
+	</song>
+	<song>
+		<artist>Lizzo</artist>
+		<title>Truth Hurts</title>
+		<genre>Pop</genre>
+		<year>2017</year>
+	</song>
+	<song>
+		<artist>Taylor Swift</artist>
+		<title>You Belong With Me</title>
+		<genre>Country Pop</genre>
+		<year>2008</year>
+	</song>
+</songs>

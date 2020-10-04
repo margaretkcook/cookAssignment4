@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+song {
+	display:block; 
+	border-bottom: 2px solid #000000; 
+	padding : 8px 0px 8px 5px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+song title {
+	font-size: 24px; 
+	font-weight: 700;
+}
+song artist {
+	display:block;
+	font-size: 19px;
+}
+song genre {
+	display: block;
+	font-size: 14px;
+}
+song genre:before {
+	content:"Genre: "; 
+}
+song year {
+	font-size: 14px;
+}
+song year:before {
+	content:"Year Released: ";
+}
